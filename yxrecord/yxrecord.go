@@ -3,8 +3,8 @@ package yxrecord
 import (
 	"errors"
 	"fmt"
-	e "github.com/tlarsendataguy-yxdb/yxdb-go/extractors"
-	m "github.com/tlarsendataguy-yxdb/yxdb-go/metafield"
+	e "github.com/oldmanfroggy/yxdb-go/extractors"
+	m "github.com/oldmanfroggy/yxdb-go/metafield"
 	"time"
 )
 

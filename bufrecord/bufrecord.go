@@ -3,7 +3,7 @@ package bufrecord
 import (
 	"encoding/binary"
 	"fmt"
-	l "github.com/tlarsendataguy-yxdb/yxdb-go/lzf"
+	l "github.com/oldmanfroggy/yxdb-go/lzf"
 	"io"
 )
 

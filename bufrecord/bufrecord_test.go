@@ -3,7 +3,7 @@ package bufrecord_test
 import (
 	"encoding/binary"
 	"fmt"
-	r "github.com/tlarsendataguy-yxdb/yxdb-go/bufrecord"
+	r "github.com/oldmanfroggy/yxdb-go/bufrecord"
 	"os"
 	"testing"
 )
